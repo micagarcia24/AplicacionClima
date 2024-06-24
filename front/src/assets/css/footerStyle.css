@@ -1,0 +1,11 @@
+footer {
+    border-top: 3px solid #c86dfd;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-text {
+    color:#c86dfd;
+}
